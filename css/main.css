@@ -170,20 +170,20 @@ blockquote {
     padding-right: 3rem;
   }
 
-article ol {
-  padding-top: 1rem;
-}
+  article ol {
+    padding-top: 1rem;
+  }
 
 }
 
 @media only screen and (min-width: 90em) {
 
-html {
-  font-size: 130%;
-}
+  html {
+    font-size: 130%;
+  }
 
-header > p {
-  font-size: 1rem;
-}
+  header > p {
+    font-size: 1rem;
+  }
 
 }
