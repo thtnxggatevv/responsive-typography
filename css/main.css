@@ -168,3 +168,22 @@ blockquote {
   blockquote {
     margin: 0 auto;
     padding-right: 3rem;
+  }
+
+article ol {
+  padding-top: 1rem;
+}
+
+}
+
+@media only screen and (min-width: 90em) {
+
+html {
+  font-size: 130%;
+}
+
+header > p {
+  font-size: 1rem;
+}
+
+}
